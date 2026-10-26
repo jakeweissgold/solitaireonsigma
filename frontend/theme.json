@@ -1,0 +1,21 @@
+{
+  "kind": "theme",
+  "presetId": "nature",
+  "isDark": true,
+  "fontFamily": "Spectral",
+  "colorOverrides": {
+    "light": {},
+    "dark": {
+      "baseCanvasSurface": "#0c2015",
+      "baseRaisedSurface": "#123524",
+      "baseInsetSurface": "#07140d",
+      "accentFill": "#c7a24a",
+      "accentForeground": "#1a1203",
+      "accentSurface": "#28230f",
+      "accentSecondarySurface": "#1d1a0f",
+      "accentSecondaryForeground": "#e3c576",
+      "accentBorder": "#c7a24a",
+      "accentSecondaryBorder": "#7d6530"
+    }
+  }
+}

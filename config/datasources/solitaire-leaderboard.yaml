@@ -1,0 +1,19 @@
+apiVersion: apps.sigma.dev/v1
+kind: DataSource
+metadata:
+  id: solitaire-leaderboard
+  displayName: Solitaire Leaderboard
+spec:
+  source:
+    type: table
+    id: 56ca8874-8e44-476f-bdab-8a138318676f
+  sourceColumns:
+    ID: {}
+    user_id: {}
+    user_name: {}
+    score: {}
+    moves: {}
+    duration_seconds: {}
+    won: {}
+    created_at: {}
+    game_mode: {}

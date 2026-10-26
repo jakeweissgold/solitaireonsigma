@@ -1,0 +1,7 @@
+endpoints:
+  - name: recordWin
+    file: src/leaderboard.ts
+    export: recordWin
+  - name: getLeaderboard
+    file: src/leaderboard.ts
+    export: getLeaderboard
